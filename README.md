@@ -42,6 +42,7 @@ Your antivirus detects naha tools as a virus, it's because of the grab creators,
 
 #### 🔧・Open the config “Api/config files/config.json” 
 * To help below an example
+* I put this in portuguese to troll lmao
 
 #### ⏰ Config.json
 
