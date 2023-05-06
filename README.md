@@ -1,12 +1,4 @@
-# 
-Free version obfuquate 
 
-Buy prenium to have source code dm Zaiden#2537 to buy
-
-Your antivirus detects naha tools as a virus, it's because of the grab creators, there is no virus
-
-
-#
 ![image](https://media.discordapp.net/attachments/1104112128463491142/1104147423196086312/image.png)
 
 ### Option 🔍
@@ -42,7 +34,6 @@ Your antivirus detects naha tools as a virus, it's because of the grab creators,
 
 #### 🔧・Open the config “Api/config files/config.json” 
 * To help below an example
-* I put this in portuguese to troll lmao
 
 #### ⏰ Config.json
 
